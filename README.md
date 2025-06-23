@@ -1,6 +1,6 @@
 Hello world 🙂
 
-I'm a Software Engineer working from Redlands, CA. I'm always building cool stuff, let's collab: 6matbub@gmail.com | https://x.com/matthew_bub
+I'm a Software Engineer working on Healthcare Tech @ mpulse.com from my home in Redlands, CA. I'm always building cool stuff, let's collab: 6matbub@gmail.com | https://x.com/matthew_bub
 
 ## Side Projects
 
