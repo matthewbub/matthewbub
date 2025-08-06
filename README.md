@@ -5,7 +5,7 @@ I'm a Software Engineer working on Healthcare Tech @ mpulse.com from my home in 
 ## Side Projects
 
 - [My dotfiles!](https://github.com/matthewbub/dotfiles) I use neovim btw
-- [My blog](https://matthewbub.com/blog)
+- [My personal website](https://mattbub.com)
 - [Asset Generator](https://github.com/matthewbub/asset_generator) Generate AI images via CLI with via the OpenAI API
 - [Wussup Chat](https://wussup.chat) AI Chat App only ($5 a mo)
 - [Modular Blocks](https://usemodularblocks.com) The future of enterprise work (beta)
