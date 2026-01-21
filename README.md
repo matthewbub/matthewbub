@@ -1,6 +1,6 @@
 Hello world 🙂
 
-I'm a Software Engineer working on Healthcare Tech @ mpulse.com from my home in Redlands, CA. I'm always building cool stuff, currently https://github.com/marriednext/core
+I'm a Software Engineer working on Healthcare Tech @ mpulse.com from my home in Redlands, CA. I'm always building cool stuff, currently marriednext.com
 
  
 ## Experiments
