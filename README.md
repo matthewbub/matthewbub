@@ -23,3 +23,4 @@ Stuff that I thought was really cool
 - [Learn Flexbox](https://github.com/matthewbub/learnflexbox) Learn Flexbox via an interactive user interface
 - [HTML5 Video Player demo](https://github.com/matthewbub/video-player-manipulation) Experimenting with HTML5 video API
 - [Zennn](https://www.npmjs.com/package/zennn) - CLI based day-planner / stop watch used for time blocking. 
+- [lg-calc](https://www.npmjs.com/package/lg-calc) - Calculate totals for products based on total price + inventory
