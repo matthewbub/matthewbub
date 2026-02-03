@@ -13,7 +13,7 @@ Stuff that I thought was really cool
 - [Calendar Widgets](https://calendar-widgets.com) React component library distributed via NPM
 - [.properties AST](https://github.com/matthewbub/dot-properties-ast) an AST parser for .properties files
 - [PoS Visualizer](https://github.com/matthewbub/PoS-Visualizer) visualize parts of speech using NLP 
-- [Auth API]() JWT based auth api hosted on Cloudflare workers
+- [Auth API](https://github.com/matthewbub/auth-api) JWT based auth api hosted on Cloudflare workers
 - [Chroniconl/UI](https://github.com/chroniconl/ui) React component library distributed via NPM
 - [Stylist](https://github.com/chroniconl/postcss-stylist) Style system built on PostCSS and distributed via NPM
 - [Golang Watcher](https://github.com/matthewbub/golang-dir-watcher-prototype) Watch for actions in specificed directories
@@ -24,4 +24,5 @@ Stuff that I thought was really cool
 - [HTML5 Video Player demo](https://github.com/matthewbub/video-player-manipulation) Experimenting with HTML5 video API
 - [Zennn](https://www.npmjs.com/package/zennn) - NPM Package - CLI based day-planner / stop watch used for time blocking. 
 - [lg-calc](https://www.npmjs.com/package/lg-calc) - NPM Package -  Calculate totals for products based on total price + inventory
+- [lg-init](https://www.npmjs.com/package/lg-init) - NPM Package - Bootstrap an Stripe based ECommerce Store via `npx` 
 - [sxcd](https://www.npmjs.com/package/sxcd) - NPM Package - Use a select list to navigate your terminal (lazy mans `cd`) 
