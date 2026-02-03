@@ -5,24 +5,42 @@ I'm a Software Engineer working on Healthcare Tech @ mpulse.com from my home in 
  
 ## Experiments
 
-Stuff that I thought was really cool
+### 📦 NPM Tools
 
-- [My dotfiles!](https://github.com/matthewbub/dotfiles)
-- [Southern California Edison TOU-D Rate Plan](https://sce-tou-d.vercel.app/) When to use power & how much it costs
-- [Asset Generator](https://github.com/matthewbub/asset_generator) Generate AI images via CLI with via the OpenAI API
-- [Calendar Widgets](https://calendar-widgets.com) React component library distributed via NPM
-- [.properties AST](https://github.com/matthewbub/dot-properties-ast) an AST parser for .properties files
-- [PoS Visualizer](https://github.com/matthewbub/PoS-Visualizer) visualize parts of speech using NLP 
-- [Auth API](https://github.com/matthewbub/auth-api) JWT based auth api hosted on Cloudflare workers
-- [Chroniconl/UI](https://github.com/chroniconl/ui) React component library distributed via NPM
-- [Stylist](https://github.com/chroniconl/postcss-stylist) Style system built on PostCSS and distributed via NPM
-- [Golang Watcher](https://github.com/matthewbub/golang-dir-watcher-prototype) Watch for actions in specificed directories
-- [Nodequill](https://github.com/matthewbub/nodequill) Simple and extendable logger distributed via NPM
-- [Conventional Commit Helper](https://github.com/matthewbub/conventional-commit-helper) Shell script for conventional commits
-- [ABCSS](https://github.com/matthewbub/abcss) Another style system inspried by TailwindCSS
-- [Learn Flexbox](https://github.com/matthewbub/learnflexbox) Learn Flexbox via an interactive user interface
-- [HTML5 Video Player demo](https://github.com/matthewbub/video-player-manipulation) Experimenting with HTML5 video API
-- [Zennn](https://www.npmjs.com/package/zennn) - NPM Package - CLI based day-planner / stop watch used for time blocking. 
-- [lg-calc](https://www.npmjs.com/package/lg-calc) - NPM Package -  Calculate totals for products based on total price + inventory
-- [lg-init](https://www.npmjs.com/package/lg-init) - NPM Package - Bootstrap an Stripe based ECommerce Store via `npx` 
-- [sxcd](https://www.npmjs.com/package/sxcd) - NPM Package - Use a select list to navigate your terminal (lazy mans `cd`) 
+Name |	Description	| Link
+--- | --- | ---
+Calendar Widgets	| React component library distributed via NPM	| https://calendar-widgets.com
+Chroniconl/UI	| React component library distributed via NPM	| https://github.com/chroniconl/ui
+Stylist	| PostCSS-based style system	| https://github.com/chroniconl/postcss-stylist
+Nodequill	| Simple, extendable logger	| https://github.com/matthewbub/nodequill
+lg-init	| Bootstrap a Stripe-based eCommerce store via npx	| https://www.npmjs.com/package/lg-init
+sxcd	| Terminal navigation helper (lazy-man’s cd)	| https://www.npmjs.com/package/sxcd
+.properties AST	| AST parser for .properties files	| https://github.com/matthewbub/dot-properties-ast
+ABCSS	| Utility-first CSS system inspired by Tailwind	| https://github.com/matthewbub/abcss
+Zennn	| CLI day planner & stopwatch for time blocking	| https://www.npmjs.com/package/zennn
+lg-calc	| Calculate totals based on price + inventory	| https://www.npmjs.com/package/lg-calc
+
+### 🌐 Web Apps
+
+Name |	Description |	Link
+--- | --- | ---
+Southern California Edison TOU-D	| Visualizes when to use power & cost by time	| https://sce-tou-d.vercel.app/
+Learn Flexbox	| Interactive UI for learning CSS Flexbox	| https://github.com/matthewbub/learnflexbox
+HTML5 Video Player Demo	| Experiments with the HTML5 Video API	| https://github.com/matthewbub/video-player-manipulation
+
+### 🛠 Dev Tools & Libraries
+
+Name |	Description	| Link |
+--- | --- | ---
+Asset Generator	| CLI for generating AI images via OpenAI API |	https://github.com/matthewbub/asset_generator
+PoS Visualizer	| NLP tool to visualize parts of speech	| https://github.com/matthewbub/PoS-Visualizer
+Auth API	| JWT-based auth API on Cloudflare Workers |	https://github.com/matthewbub/auth-api
+Golang Watcher	| Watch directories for file actions	| https://github.com/matthewbub/golang-dir-watcher-prototype
+Conventional Commit Helper	| Shell script for conventional commits |	https://github.com/matthewbub/conventional-commit-helper
+
+### ⚙️ Personal / Config
+
+Name |	Description | Link
+--- | --- | ---
+Dotfiles	| Personal development environment configuration	| https://github.com/matthewbub/dotfiles
+
