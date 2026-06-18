@@ -3,6 +3,7 @@ I just love the web
 my garden
 
 ```bash
+https://seatingcanvas.com/
 https://marriednext.com/  # create your own wedding website; collect rsvps
 https://matthewbub.com/ # portfolio
 https://earthquake-details.info/ # earthquake information
